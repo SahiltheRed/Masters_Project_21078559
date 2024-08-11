@@ -1,4 +1,1 @@
-Links to the dataset
-
-1) Favorita sales data - https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
-2) M5 competition Walmart sales data - https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
+Links to the dataset are provided in the jupyter notebook.
