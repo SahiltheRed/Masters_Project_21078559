@@ -1,0 +1,63 @@
+Project Artifact
+
+
+Name: Sahil Hamid Mulani
+Student id: 21078559
+Supervisor: Phillip Gainley
+Project name: Enhancing Retail Sales Prediction with LightGBM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1) Github:  https://github.com/SahiltheRed/Masters_Project_21078559.git 
+
+2) Chapter 1 Exploratory Data Analysis Artifact link: https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/Exploratory_Data_Analysis_21078559.ipynb 
+
+3) Chapter 2 Light Gradient boosting machine on HOBBIES_1_018_CA_1_validation Artifact link:
+Iteration1: https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/HOBBIES_1_018_CA_1_validation_Iteration_1.ipynb 
+     Iteration 2:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Co de_Notebooks/HOBBIES_1_018_CA_1_validation_Iteration_2.ipynb 
+     Iteration 3:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/HOBBIES_1_018_CA_1_validation_Iteration_3.ipynb 
+4) Chapter 3 Light Gradient Boosting Machine on FOODS_3_555_CA_1_validation for predicting the next 7.5 months
+     Iteration1: https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_226days_Iteration_1.ipynb 
+     Iteration 2:
+      https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_226days_Iteration_2.ipynb 
+     Iteration 3:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_226days_Iteration_3.ipynb 
+     Iteration 4:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_226days_Iteration_4.ipynb 
+     Iteration 5:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_226days_Iteration_5.ipynb 
+5) Chapter 4 Light Gradient Boosting Machine on FOODS_3_555_CA_1_validation for predicting the next 28 days
+     Iteration 1:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_28days_Iteration_1.ipynb 
+     Iteration 2:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_28days_Iteration_2.ipynb 
+     Iteration 3:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/FOODS_3_555_CA_1_validation_28days_Iteration_3.ipynb 
+6) Chapter 5 Forecasting sales across various levels of hierarchies
+     Iteration 1:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/Hierarchy_worst_performance.ipynb 
+     Iteration 2:
+     https://github.com/SahiltheRed/Masters_Project_21078559/blob/main/Code_Notebooks/Hierarchy_best_performance.ipynb 
+
+
